@@ -1,4 +1,4 @@
-<h1 align="center">Hello techies <a href="https://i.pinimg.com/originals/2e/89/02/2e89029c707aa62b17e76c0422f0de0e.gif"><img src="https://github.com/user-attachments/assets/17aa3652-b486-4b8b-a27b-c73d960335e5" width="40px"></a>
+<h1 align="center">Hi there<a href="https://i.pinimg.com/originals/2e/89/02/2e89029c707aa62b17e76c0422f0de0e.gif"><img src="https://github.com/user-attachments/assets/17aa3652-b486-4b8b-a27b-c73d960335e5" width="40px"></a>
 , I'm Mohamed Imraan</h1>
 <h3 align="center">Aspiring Full-Stack Developer | ECE Student | Tech Content Creator @ Pain Codes</h3>
 
@@ -84,8 +84,9 @@
 📧 Email Spam Detection System </a><br>
   Developed a model to classify emails as Spam or Ham using text preprocessing & ML algorithms 
 
-🚗 **Car Price Prediction System**  
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7441476414215757824/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BaJjwBCkuQ5SlGy4EI%2Bu3nw%3D%3D">🚗 Car Price Prediction System</a> <br>
   Created a regression model to predict car prices based on features like mileage, fuel type, etc.
+
 
  ---
 ### 📊 GitHub Stats
@@ -119,3 +120,5 @@
 </p>
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=700&lines=✨+Glad+you+visited+my+profile+💖;⚡+Let's+build+something+powerful+together+💝;🔔+Follow+me+for+free+tech+resources+📚;🤩+Star+this+repo+🌟+if+you+like+this+❤️‍🔥)](https://git.io/typing-svg)
