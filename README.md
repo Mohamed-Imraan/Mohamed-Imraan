@@ -60,7 +60,7 @@
 </table>
 
 ## 🏆 Achievements
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7309229609332428800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=JNAPsg4MSBa9hi08vMIltQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bga5UhAQ3Tjmt6nLoGUbUwQ%3D%3D"><img align="right" width="341" alt="Achievents_Credits" src="https://github.com/user-attachments/assets/d09feb1c-ed95-424d-9ea9-421da7145a84"/></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7309229609332428800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=JNAPsg4MSBa9hi08vMIltQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bga5UhAQ3Tjmt6nLoGUbUwQ%3D%3D"><img align="right" width="50%" alt="Achievents_Credits" src="https://github.com/user-attachments/assets/d09feb1c-ed95-424d-9ea9-421da7145a84"/></a>
 
 
 - 🏆Won **Best Project Award** for developing a real-world safety system
@@ -82,9 +82,10 @@
   
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7438203471989993472/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bg7%2BGtAzyQzW7X6VdqLFsaA%3D%3D">
 📧 Email Spam Detection System </a><br>
-  Developed a model to classify emails as Spam or Ham using text preprocessing & ML algorithms 
-
-🚗 **Car Price Prediction System**  
+  Developed a model to classify emails as Spam or Ham using text preprocessing & ML algorithms <br>
+  
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7441476414215757824/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSk11C8inRYSCEIcXWHjWQg%3D%3D">
+🚗 Car Price Prediction System</a><br>
   Created a regression model to predict car prices based on features like mileage, fuel type, etc.
 
  ---
@@ -121,3 +122,4 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=700&lines=✨+Glad+you+visited+my+profile+💖;⚡+Let's+build+something+powerful+together+💝;🔔+Follow+me+for+free+tech+resources+📚;🤩+Star+this+repo+🌟+if+you+like+this+❤️‍🔥)](https://git.io/typing-svg)
+
