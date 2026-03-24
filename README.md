@@ -3,12 +3,32 @@
 <h3 align="center">Aspiring Full-Stack Developer | ECE Student | Tech Content Creator @ Pain Codes</h3>
 
 ---
+<!-- Use this if you prefer a strict two-column layout -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+<h3> 👨‍💻 About Me </h3>
+     
+- 🎓 Pre-Final Year ECE Student  
+- 💻 Passionate about Web Development & AI  
+- 🌱 Currently learning **MERN Stack & DSA**  
+- 🤝 Looking to collaborate on **AI / ML Projects**  
+- 🎯 Goal: Crack a **Product-Based Company (FAANG)**  
+- ✨ Fun Fact: I help beginners learn coding for FREE via **Pain Codes**
+    </td>
+    <td valign="top" width="40%">
+<img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" width="280" alt="coding gif" />
+    </td>
+  </tr>
+</table>
+
 
 <table>
   
 <tr>
   <td>
-<img align="left" alt="coding" width="280" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/></td>
+<img align="left" alt="coding" width="280" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/>
+  </td>
 <td>
   
 ### 👨‍💻 About Me
@@ -35,8 +55,8 @@
 
  ---
 
-## ✨ Featured LinkedIn Posts
 
+## ✨ Featured LinkedIn Posts
 <table>
   
 <tr>
