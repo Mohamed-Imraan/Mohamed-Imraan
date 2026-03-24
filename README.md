@@ -60,16 +60,16 @@
 </table>
 
 ## 🏆 Achievements
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7309229609332428800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=JNAPsg4MSBa9hi08vMIltQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bga5UhAQ3Tjmt6nLoGUbUwQ%3D%3D"><img align="right" width="50%" alt="Achievents_Credits" src="https://github.com/user-attachments/assets/d09feb1c-ed95-424d-9ea9-421da7145a84"/></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7309229609332428800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=JNAPsg4MSBa9hi08vMIltQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bga5UhAQ3Tjmt6nLoGUbUwQ%3D%3D"><img align="right" width="341" alt="Achievents_Credits" src="https://github.com/user-attachments/assets/d09feb1c-ed95-424d-9ea9-421da7145a84"/></a>
 
 
-- 🏆Won **Best Project Award** for developing a real-world safety system
-- 🥇Secured **1st Prize in Micro project**
-- 🎗️ Received **Certificate of Merit** for project excellence  
-- 🚗 Built **"Anti-Sleep Detector Alarm for Drivers"** using Arduino  
+- 🏆Won *Best Project Award* for developing a real-world safety system
+- 🥇Secured *1st Prize in Micro project*
+- 🎗️ Received *Certificate of Merit* for project excellence  
+- 🚗 Built *"Anti-Sleep Detector Alarm for Drivers"* using Arduino  
 - ⚙️ Designed a working prototype with sensors, buzzer, relay & motor  
 - 🧠 Applied Embedded Systems & IoT concepts to solve real-life problems
-- **Note:** Click the image to checkout this awarded project
+- *Note:* Click the image to checkout this awarded project
 
 ---
 
@@ -103,12 +103,6 @@
 </p>
 
 ---
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moamedimraan&theme=onedark&no-frame=true&row=1&margin-w=15" />
-</p>
 
 ### 🌐 Connect with me
 <p align="left">
