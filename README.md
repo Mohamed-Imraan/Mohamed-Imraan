@@ -3,43 +3,18 @@
 <h3 align="center">Aspiring Full-Stack Developer | ECE Student | Tech Content Creator @ Pain Codes</h3>
 
 ---
-<!-- Use this if you prefer a strict two-column layout -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-<h3> 👨‍💻 About Me </h3>
-     
-- 🎓 Pre-Final Year ECE Student  
-- 💻 Passionate about Web Development & AI  
-- 🌱 Currently learning **MERN Stack & DSA**  
-- 🤝 Looking to collaborate on **AI / ML Projects**  
-- 🎯 Goal: Crack a **Product-Based Company (FAANG)**  
-- ✨ Fun Fact: I help beginners learn coding for FREE via **Pain Codes**
-    </td>
-    <td valign="top" width="40%">
-<img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" width="280" alt="coding gif" />
-    </td>
-  </tr>
-</table>
 
+<img align="right" alt="coding" width="280" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/>
 
-<table>
-  
-<tr>
-  <td>
-<img align="left" alt="coding" width="280" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/>
-  </td>
-<td>
-  
 ### 👨‍💻 About Me
 - 🎓 Pre-Final Year ECE Student  
 - 💻 Passionate about Web Development & AI  
 - 🌱 Currently learning **MERN Stack & DSA**  
 - 🤝 Looking to collaborate on **AI / ML Projects**  
 - 🎯 Goal: Crack a **Product-Based Company (FAANG)**
-- ✨ Fun Fact - I help beginners learn coding for FREE via **Pain Codes**
- </td>
-</tr>
+- ✨ Fun Fact - I help beginners learn coding for FREE via **Pain Codes**.
+
+---
 
 ### 🚀 Tech Stack
 <p align="left">
@@ -55,28 +30,28 @@
 
  ---
 
-
 ## ✨ Featured LinkedIn Posts
+
 <table>
   
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7295275525017645057?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7295275525017645057%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwW%2Bl74rzQ1eq1sITBCKMAg%3D%3D">  
-<img width="665px" alt="Featured post 1" src="https://github.com/user-attachments/assets/ed5b5166-f0f7-4afe-a895-d8248f79bdee" />
+<img width="465px" alt="Featured post 1" src="https://github.com/user-attachments/assets/ed5b5166-f0f7-4afe-a895-d8248f79bdee" />
 <b>🤷‍♂️ Job Interview Guide</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290594803115839488?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7290594803115839488%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bkh1tq3ENSMCOMmZUJAtCTw%3D%3D">
-<img alt="Featured post 2" src="https://github.com/user-attachments/assets/26ba37cc-7826-4998-97ea-7dd7a7015f01" width="590px"/>
+<img alt="Featured post 2" src="https://github.com/user-attachments/assets/26ba37cc-7826-4998-97ea-7dd7a7015f01" width="390px"/>
 <b>📝ATS-Resume sites to create </b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7309229609332428800%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BAGB8nqJpQOemxaGEr3bIgA%3D%3">
-<img alt="Feautered post 3" src="https://github.com/user-attachments/assets/ea0995d8-a812-4c7b-a3b7-2d9eff2532ee" width="530px"/>
+<img alt="Feautered post 3" src="https://github.com/user-attachments/assets/ea0995d8-a812-4c7b-a3b7-2d9eff2532ee" width="350px"/>
 <b>📂My Micro project</b>
 </a>
 </td>
@@ -109,9 +84,8 @@
 📧 Email Spam Detection System </a><br>
   Developed a model to classify emails as Spam or Ham using text preprocessing & ML algorithms 
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7441476414215757824/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BaJjwBCkuQ5SlGy4EI%2Bu3nw%3D%3D">🚗 Car Price Prediction System</a> <br>
+🚗 **Car Price Prediction System**  
   Created a regression model to predict car prices based on features like mileage, fuel type, etc.
-
 
  ---
 ### 📊 GitHub Stats
@@ -124,7 +98,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Imraan&theme=neon" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Imraan&theme=neon" />
 </p>
 
 ---
