@@ -1,6 +1,6 @@
 <h1 align="center">Hi there<a href="https://i.pinimg.com/originals/2e/89/02/2e89029c707aa62b17e76c0422f0de0e.gif"><img src="https://github.com/user-attachments/assets/17aa3652-b486-4b8b-a27b-c73d960335e5" width="40px"></a>
 , I'm Mohamed Imraan</h1>
-<h3 align="center">Aspiring Full-Stack Developer | ECE Student | Tech Content Creator @ Pain Codes</h3>
+<h3 align="center">AI Engineer | Building ML & GenAI Projects | Founder @ Pain Codes</h3>
 
 ---
 
@@ -104,6 +104,11 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moamedimraan&theme=onedark&no-frame=true&row=1&margin-w=15" />
+</p>
 
 ### 🌐 Connect with me
 <p align="left">
