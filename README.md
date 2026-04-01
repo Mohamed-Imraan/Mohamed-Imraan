@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Imraan</h1>
+<h3 align="center">AI Engineer | Building ML & GenAI Projects | Founder @ Pain Codes</h3>
 
-<!--
-**Mohamed-Imraan/Mohamed-Imraan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="280" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Pre-Final Year ECE Student  
+- 💻 Passionate about Web Development & AI  
+- 🌱 Currently learning **MERN Stack & DSA**  
+- 🤝 Looking to collaborate on **AI / ML Projects**  
+- 🎯 Goal: Crack a **Product-Based Company (FAANG)**
+- ✨ Fun Fact - I help beginners learn coding for FREE via **Pain Codes**.
+
+---
+
+### 🚀 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cpp,python,go,dart,mongodb,mysql,latex,markdown" />
+</p>
+
+  ---
+
+### 🛠️ Tools & IDEs
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,matlab,notion" />
+</p>
+
+ ---
+
+## ✨ Featured LinkedIn Posts
+
+<table>
+  
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7295275525017645057?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7295275525017645057%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwW%2Bl74rzQ1eq1sITBCKMAg%3D%3D">  
+<img width="465px" alt="Featured post 1" src="https://github.com/user-attachments/assets/3f482c30-a5d4-4315-a0d2-555fdfcc0b57" />
+<b>🤷‍♂️ Job Interview Guide</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7290594803115839488?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7290594803115839488%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bkh1tq3ENSMCOMmZUJAtCTw%3D%3D">
+<img alt="Featured post 2" src="https://github.com/user-attachments/assets/815778cf-df91-49bd-af54-0121c6286ff4" width="390px"/>
+<b>📝ATS-Resume sites to create </b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7309229609332428800%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BAGB8nqJpQOemxaGEr3bIgA%3D%3">
+<img alt="Feautered post 3" src="https://github.com/user-attachments/assets/1166dee3-47b8-469e-887d-34b543ab7276" width="350px"/>
+<b>📂My Micro project</b>
+</a>
+</td>
+</tr>
+
+</table>
+
+## 🏆 Achievements
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7309229609332428800?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7309229609332428800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=JNAPsg4MSBa9hi08vMIltQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bga5UhAQ3Tjmt6nLoGUbUwQ%3D%3D"><img align="right" width="341" alt="Achievents_Credits" src="https://github.com/user-attachments/assets/31e71cb7-379f-4134-8f85-29d34928845b"/></a>
+
+
+- 🏆Won *Best Project Award* for developing a real-world safety system
+- 🥇Secured *1st Prize in Micro project*
+- 🎗️ Received *Certificate of Merit* for project excellence  
+- 🚗 Built *"Anti-Sleep Detector Alarm for Drivers"* using Arduino  
+- ⚙️ Designed a working prototype with sensors, buzzer, relay & motor  
+- 🧠 Applied Embedded Systems & IoT concepts to solve real-life problems
+- *Note:* Click the image to checkout this awarded project
+
+---
+
+## 🚀 Projects
+
+### 🤖 Machine Learning Projects
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7437142652195602432/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQLpIxlqKRo2AAf5ZkwMwMA%3D%3D">
+🩺 Diabetic Prediction System </a><br>
+  Built using supervised learning to predict whether a person is diabetic based on medical data <br>
+  
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7438203471989993472/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bg7%2BGtAzyQzW7X6VdqLFsaA%3D%3D">
+📧 Email Spam Detection System </a><br>
+  Developed a model to classify emails as Spam or Ham using text preprocessing & ML algorithms <br>
+  
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7441476414215757824/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSk11C8inRYSCEIcXWHjWQg%3D%3D">
+🚗 Car Price Prediction System</a><br>
+  Created a regression model to predict car prices based on features like mileage, fuel type, etc.
+
+ ---
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Imraan&theme=merko"/>
+</p>
+
+ ---
+
+
+### 🔥 Streak Stats
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Imraan&theme=neon" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-imraan-full-stack-developer?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM1jxZ8DGQg24Vq5WlXeq3A%3D%3D" target="blank">
+
+<img width="90" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/>
+<a href="https://github.com/Mohamed-Imraan">
+
+<img width="80" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
+
+<a href="mailto:mohamedimraan.2405@gmail.com">
+  <img src="https://img.icons8.com/clouds/100/gmail-new.png" width="75" alt="gmail logo"/>
+</a>
+</p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=700&lines=✨+Glad+you+visited+my+profile+💖;⚡+Let's+build+something+powerful+together+💝;🔔+Follow+me+for+free+tech+resources+📚;🤩+Star+this+repo+🌟+if+you+like+this+❤️‍🔥)](https://git.io/typing-svg)
