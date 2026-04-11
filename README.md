@@ -1,6 +1,6 @@
 <h1 align="center">Mohamed Imraan</h1>
 
-> <h3 align="center">AI Engineer | Web developer | Founder @ <a href="https://github.com/Pain-Codes"/> Pain codes</h3>
+> <h3 align="center">AI Engineer | Web developer | Content creator | Founder @ <a href="https://github.com/Pain-Codes"/> Pain codes</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Exploring+Large+Language+Models+(LLMs);Building+RAG+Powered+AI+Applications;Developing+GenAI+Apps+with+LangChain;Creating+Interactive+AI+Apps+with+streamlit" />
@@ -8,8 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
-<img align="right" alt="coding" width="348" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/><br>
+<img align="right" alt="coding" width="345" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/><br>
 
 - 🎓 Pre-Final Year ECE Student  
 - 🌱 Currently building **Gen Ai projects**
@@ -114,9 +113,11 @@
 📧 Email Spam Detection System </a><br>
   Developed a model to classify emails as Spam or Ham using text preprocessing & ML algorithms <br>
   
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7441476414215757824/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSk11C8inRYSCEIcXWHjWQg%3D%3D">
-🚗 Car Price Prediction System</a><br>
-  Created a regression model to predict car prices based on features like mileage, fuel type, etc.
+<a href="https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_internpe-internship-week4-activity-7445097509808594945-Jdhr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFY3K0cBU_78C0iKCc_Q5cnqtXRuF44rzCg">
+</a>
+🔬 Breast Cancer Detection <br>
+built a machine learning model that predicts whether a tumor is Benign or Malignant using medical dataset features.
+
 
  ---
 
@@ -137,8 +138,8 @@ An AI tool that analyzes resumes using RAG (Retrieval-Augmented Generation) to h
 ---
 
 ### ⛓️ Embedded project
-<a href="https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_ece-iot-project-activity-7309229609332428800">
-🚗 Anti-Sleep Detector Alarm for Drivers
+<a href="https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_ece-iot-project-activity-7309229609332428800-t2ac?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFY3K0cBU_78C0iKCc_Q5cnqtXRuF44rzCg">
+🚘 Anti-Sleep Detector Alarm for Drivers
 </a><br>
 An Arduino-based driver safety system that detects driver drowsiness using an eye-blink sensor and triggers a buzzer to prevent accidents.
 
