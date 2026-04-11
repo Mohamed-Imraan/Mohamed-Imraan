@@ -8,6 +8,8 @@
 
 ---
 
+## 🧑🏻‍💻 About me
+
 <img align="right" alt="coding" width="345" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"/><br>
 
 - 🎓 Pre-Final Year ECE Student  
